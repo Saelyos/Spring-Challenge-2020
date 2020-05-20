@@ -67,7 +67,7 @@ To be honest I had very low motivation to deal with incomplete information, as i
      pellet that should have been eaten), I remove this pac from my list and doesn't consider him to be alive as long as
       I don't see him again.  
 
-### Pellets removing
+### Removing pellets
 
 Even without a precise enemy tracking, it was possible to remove a lot of pellets. 
 
