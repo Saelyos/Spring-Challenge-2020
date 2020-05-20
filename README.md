@@ -40,7 +40,7 @@ When I want to run a simulation (the execution of one individual for me and one 
 
 The simulation take place, and this procedure is repeated until full depth is reached. 
 
-### Evaluation
+### Evaluation
 
 The final game state is then evaluated with an evaluation function that takes into account:
 -	The scores. One trick I added was to give a score of 1.0 for eating a pellet that I'm sure is still alive, and otherwise 
@@ -94,8 +94,8 @@ Here you see that the beginning of the corridor has already been cleared, so you
  
  When I see an empty intersection with 2 empty or unknown cells, that's probably because a pac went through this
   intersection, and so the corridors adjacent to those 2 cells are surely empty too. 
-
-## Misc  
+  
+## Misc
 
 ### Attack and defense
 
